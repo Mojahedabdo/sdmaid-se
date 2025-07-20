@@ -6,7 +6,7 @@
   <b><span style="color:#16a085;font-size:22px;">مطور شغوف بالتعلم والتطوير المستمر</span></b><br>
   <span style="color:#ffd700;">لا أركز على مجال واحد فقط، بل أسعى دائمًا لتحسين وتطوير قدراتي في البرمجة والتقنية.</span><br>
   <span style="color:#e74c3c;">أؤمن أن توسيع دائرة المهارات هو الطريق الأمثل للنمو المهني والشخصي.</span>
-</p>
+</p> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/تعلم-مستمر-16a085?style=for-the-badge&logo=github" />
